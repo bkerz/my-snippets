@@ -1,0 +1,15 @@
+{
+	"snip1": {
+		"prefix": "vscode_lua1",
+		"body": [
+			"vscode$1lualualua"
+		]
+	},
+	"snip2": {
+		"prefix": "testing",
+		"body": [
+			"testing"
+		]
+	}
+
+}
