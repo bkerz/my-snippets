@@ -1,9 +1,6 @@
 {
 	"usegodot": {
 		"prefix": "prelude",
-		"body": [
-			"use godot::prelude::*;",
-			"use godot::register::{GodotClass, godot_api};",
-		]
+		"body": ["use godot::prelude::*;"]
 	}
 }
